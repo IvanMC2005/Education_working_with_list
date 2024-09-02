@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707842834 source:c:\c++\задания\strpr1\main.cpp
+	<iostream>
+	<locale.h>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+
